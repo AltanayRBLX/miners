@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 var prefix = 'm!' ;
+//something
 
 client.on('ready', () => {
   console.log(`BOT: ${client.user.tag} adıyla giriş yapıldı!`);
