@@ -1,1 +1,1 @@
-worker : node miner.js
+worker: node index.js
